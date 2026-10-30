@@ -1,0 +1,47 @@
+- main:
+  - navigation:
+    - link "Events":
+      - /url: /events
+    - text: / World Tech Summit
+  - img "World Tech Summit"
+  - text: Conference Featured
+  - heading "World Tech Summit" [level=1]
+  - img
+  - text: This is a featured event — always available for practice 📅
+  - paragraph: Date
+  - paragraph: Saturday, 18 April
+  - text: 🕐
+  - paragraph: Time
+  - paragraph: 11:00 am
+  - text: 📍
+  - paragraph: Venue
+  - paragraph: Hyderabad, Hitech city
+  - text: 🌆
+  - paragraph: City
+  - paragraph: Hyderabad
+  - text: 🎫
+  - paragraph: Available
+  - paragraph: 8 / 500 seats
+  - text: 💰
+  - paragraph: Price per ticket
+  - paragraph: $1,500
+  - heading "About this event" [level=2]
+  - paragraph: A premier technology conference bringing together 500+ industry leaders, startup founders, and engineers for two days of keynotes, workshops, and networking. Topics include AI/ML, cloud infrastructure, DevSecOps, and the future of the Indian tech ecosystem.
+  - heading "Book Tickets" [level=2]
+  - text: $1,500
+  - paragraph: per ticket
+  - text: Tickets
+  - button "−" [disabled]
+  - text: "1"
+  - button "+"
+  - text: (max 8) Full Name*
+  - textbox "Full Name*":
+    - /placeholder: Your full name
+  - text: Email*
+  - textbox "Email*":
+    - /placeholder: you@email.com
+  - text: Phone Number*
+  - textbox "Phone Number*":
+    - /placeholder: +91 98765 43210
+  - text: $1,500 × 1 ticket $1,500 Total $1,500
+  - button "Confirm Booking"
